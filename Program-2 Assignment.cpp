@@ -1,4 +1,4 @@
-[9:24 am, 30/09/2021] Ashish Sinha CSE: #include <iostream>
+ #include <iostream>
 using namespace std;
 
 //  The iteration function 
@@ -71,4 +71,3 @@ int main()
 
   return 0;
 }
-[9:24 am, 30/09/2021] Ashish Sinha CSE: yeh lo karo enjoy
